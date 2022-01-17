@@ -12,4 +12,6 @@
  The Win game state, shows the smiley face with the message that You Win!.
  
  ![2](https://github.com/blm3886/Minesweeper/blob/main/2.JPG)
+ ![Capture](https://github.com/blm3886/Minesweeper/blob/main/Capture.JPG)
+ ![Capture3](https://github.com/blm3886/Minesweeper/blob/main/Capture3.JPG)
 
